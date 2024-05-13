@@ -42,7 +42,8 @@
     "node": ">=20"
   },
   "dependencies": {
-    "commander": "^12.0.0"
+    "commander": "^12.0.0",
+    "js-yaml": "^4.1.0"
   },
   "devDependencies": {
     "@ava/typescript": "^5.0.0",

@@ -5986,6 +5986,7 @@ __metadata:
     eslint-plugin-functional: "npm:^6.5.1"
     eslint-plugin-import: "npm:^2.22.0"
     gh-pages: "npm:^6.1.1"
+    js-yaml: "npm:^4.1.0"
     npm-run-all: "npm:^4.1.5"
     nyc: "npm:^15.1.0"
     open-cli: "npm:^8.0.0"
