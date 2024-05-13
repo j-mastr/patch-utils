@@ -1,6 +1,6 @@
 {
   "name": "patch-utils",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Utils for working with yaml patches",
   "bin": "./bin/patch-utils",
   "main": "build/main/index.js",
@@ -72,14 +72,19 @@
     "typescript": "^5.4.5"
   },
   "files": [
-    "build/main",
-    "build/module",
+    "build/**/*",
+    "bin/**/*",
     "!**/*.spec.*",
     "!**/*.json",
     "CHANGELOG.md",
     "LICENSE",
     "README.md"
   ],
+  "publishConfig": {
+    "executableFiles": [
+      "bin/patch-utils"
+    ]
+  },
   "ava": {
     "failFast": true,
     "timeout": "60s",
