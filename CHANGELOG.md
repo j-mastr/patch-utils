@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/j-mastr/patch-utils/compare/v1.0.3...v1.0.4) (2024-05-13)
+
+
+### Miscellaneous Chores
+
+* release 1.0.4 ([#4](https://github.com/j-mastr/patch-utils/issues/4)) ([9d19ce9](https://github.com/j-mastr/patch-utils/commit/9d19ce96af1001c7eb59743bff98ad7e9cd27b45))
+
 ## 1.0.3 (2024-05-13)
 
 

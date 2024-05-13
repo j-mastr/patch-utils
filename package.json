@@ -1,6 +1,6 @@
 {
   "name": "patch-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Utils for working with yaml patches",
   "bin": "./bin/patch-utils",
   "main": "build/main/index.js",
