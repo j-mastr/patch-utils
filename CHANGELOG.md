@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/j-mastr/patch-utils/compare/v1.0.4...v1.0.5) (2024-05-13)
+
+
+### Bug Fixes
+
+* publish to npm ([#6](https://github.com/j-mastr/patch-utils/issues/6)) ([c6bd12e](https://github.com/j-mastr/patch-utils/commit/c6bd12e9b4df7a25ffb74015322433251e05a138))
+
 ## [1.0.4](https://github.com/j-mastr/patch-utils/compare/v1.0.3...v1.0.4) (2024-05-13)
 
 
